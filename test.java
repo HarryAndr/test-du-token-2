@@ -31,6 +31,6 @@ public class test
         return x + y;
     }
     public void print(){
-        System.out.println("Bonjour");
+        System.out.println("Adieu");
     }
 }
