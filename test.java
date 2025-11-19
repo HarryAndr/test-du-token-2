@@ -30,4 +30,7 @@ public class test
         // Insérez votre code ici
         return x + y;
     }
+    public void print(){
+        System.out.println("Bonjour");
+    }
 }
